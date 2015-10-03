@@ -1,0 +1,11 @@
+[plugin]
+name = "amb-blueprint-view"
+description = "Installs custom Ambari view: Blueprints View"
+version = "1.0"
+maintainer_name = "SequenceIQ"
+maintainer_email = "info@sequenceiq.com"
+website_url = "http://github.com/lajos/cloudbreak-recipe-amb-bluepr-view"
+
+[plugin.config]
+
+[plugin.compatibility]
