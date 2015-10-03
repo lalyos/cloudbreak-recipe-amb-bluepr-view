@@ -1,0 +1,11 @@
+{
+  "name" : "recipe-amb-blueprint-view",
+  "description" : "Adds custom Ambari View",
+  "timeout" : 10,
+  "properties": {
+    "recipes.testprop": "hello123"
+  },
+  "plugins": {
+    "https://github.com/lalyos/consul-plugins-amb-bluepr-view.git": "ONE_NODE"
+  }
+}
